@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohammed%20Nishad%20PA&fontSize=40&fontAlign=50&fontColor=ffffff" alt="Mohammed Nishad Banner"/>
+</p>
+
 <!-- Banner or Header -->
 <h1 align="center">Hi there, I'm Mohammed Nishad PA 👋</h1>
 <h3 align="center">AI & ML Engineer | Passionate about Deep Learning, NLP, and Computer Vision</h3>
@@ -61,6 +66,15 @@ Power BI, Tableau, Anaconda, Jupyter Notebook, Google Colab, RStudio, VS Code
 
 ---
 
+### 🧰 Tech Stack & Rotating Icons
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Tech+Stack+%26+Latest+Learning&center=true&width=500&height=45&color=0CF7F7&vCenter=true&pause=1000&size=25"/>
+  <br>
+  <img src="https://raw.githubusercontent.com/MdNishad-03/MdNishad-03/main/assets/tech-logos-rotate.gif" width="600"/>
+</p>
+
+---
+
 ### 📫 Contact Me
 <p align="center">
   <a href="mailto:mnishadckm@gmail.com"><img src="https://img.shields.io/badge/Email-mnishadckm@gmail.com-red?style=for-the-badge&logo=gmail"></a>
@@ -80,4 +94,3 @@ Power BI, Tableau, Anaconda, Jupyter Notebook, Google Colab, RStudio, VS Code
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
